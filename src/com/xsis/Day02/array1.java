@@ -1,4 +1,4 @@
-package day02;
+package com.xsis.Day02;
 
 public class array1 {
 
@@ -10,3 +10,4 @@ public class array1 {
 
     }
 }
+

@@ -1,4 +1,4 @@
-package day02;
+package com.xsis.Day02;
 
 public class ar2dimensi {
     public static void main(String[] args) {
@@ -17,15 +17,16 @@ public class ar2dimensi {
        array2d.searchNums(nums, 5);*/
 
 
-       public void searchNums(int[][]nums, int search){
-            for (int row = 0; row < nums.length; row++) {
-                for (int column = 0; column < nums[row].length; column++) {
-                    if (nums[row][column] == search)
-                        System.out.println("Search :)" + search + " at position " + "Baris :" + row+"Kolom :" + column);
-                }
+    public void searchNums(int[][]nums, int search){
+        for (int row = 0; row < nums.length; row++) {
+            for (int column = 0; column < nums[row].length; column++) {
+                if (nums[row][column] == search)
+                    System.out.println("Search :)" + search + " at position " + "Baris :" + row+"Kolom :" + column);
             }
         }
     }
+}
+
 
 
 

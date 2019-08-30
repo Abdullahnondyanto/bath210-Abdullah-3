@@ -1,4 +1,4 @@
-package day02;
+package com.xsis.Day02;
 
 public class latihanlogic2 {
 
