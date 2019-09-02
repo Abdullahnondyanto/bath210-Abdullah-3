@@ -2,41 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8b38679-23e7-4a2d-b2c7-b9b0b30be3de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/Day02/ArraySoal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/Day02/Latihanlogic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/Day02/ar2dimensi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/Day02/array1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/Day02/array3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/Day02/kotak_bolong.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/Day02/latihanlogic2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/Day02/latihanlogic3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/Day02/logic1no1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/Day02/logic1no2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/Day02/logic1no3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/Day02/logic1no5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/Day02/logic1no6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/Day02/logic1no7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/Day02/logic1no8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/Day03/Array01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/Day03/Array03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/Day03/latihan1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/Day03/logic3no2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/day01/Latihan1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/Day02/logic1no10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/Day02/logic1no9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/Day03/logic2no2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/Day04/Fisika.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/Day04/latihan4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/Day04/latihanmatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/Day04/latihanmatrix2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/Day04/logic2no3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/Day04/logic2no4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/Day04/logic2no5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/Day04/logic2no6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/Day04/logic3no1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/Day04/phytagoras.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/day02/Latihanlogic.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/day02/ar2dimensi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/day02/array1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/day02/array2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/day02/array3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/day02/latihanlogic2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/day02/latihanlogic3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day02/Latihanlogic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day02/ar2dimensi.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day02/array1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day02/array2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day02/array3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day02/latihanlogic2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day02/latihanlogic3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/com/xsis/Day02/Latihanlogic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/com/xsis/Day02/Latihanlogic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/com/xsis/Day03/logic3no1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/com/xsis/Day03/logic3no2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xsis/Day02/Latihanlogic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xsis/Day02/Latihanlogic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xsis/Day02/logic1no8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xsis/Day02/logic1no8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xsis/Day03/logic3no2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xsis/Day03/logic2no1.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -67,13 +52,31 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/xsis/Day02/Latihanlogic.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1088">
-              <caret line="64" column="30" selection-start-line="64" selection-start-column="30" selection-end-line="64" selection-end-column="30" />
+            <state relative-caret-position="573">
+              <caret line="49" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/xsis/Day04/latihan4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/xsis/Day04/Fisika.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="595">
+              <caret line="39" column="49" lean-forward="true" selection-start-line="39" selection-start-column="49" selection-end-line="39" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/xsis/Day02/logic1no8.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
@@ -83,19 +86,28 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/xsis/Day03/Array03.java">
+        <entry file="file://$PROJECT_DIR$/src/com/xsis/Day04/logic3no1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+            <state relative-caret-position="170">
+              <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/xsis/Day03/logic3no2.java">
+        <entry file="file://$PROJECT_DIR$/src/com/xsis/Day04/logic2no3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="221">
+              <caret line="13" column="25" lean-forward="true" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/xsis/Day02/logic1no7.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -115,15 +127,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Hello.java" />
-        <option value="$PROJECT_DIR$/src/com/xsis/day01/Hello.java" />
-        <option value="$PROJECT_DIR$/src/com/xsis/day01/Speed.java" />
-        <option value="$PROJECT_DIR$/src/com/xsis/day01/Speed2.java" />
-        <option value="$PROJECT_DIR$/src/com/xsis/day01/Gaya.java" />
-        <option value="$PROJECT_DIR$/src/com/xsis/day01/Speed3.java" />
-        <option value="$PROJECT_DIR$/src/day02/latihanlogic2.java" />
-        <option value="$PROJECT_DIR$/src/day02/latihanlogic3.java" />
-        <option value="$PROJECT_DIR$/src/day02/latihanlogic4.java" />
         <option value="$PROJECT_DIR$/src/day02/array1.java" />
         <option value="$PROJECT_DIR$/src/day02/array3.java" />
         <option value="$PROJECT_DIR$/src/day02/array2.java" />
@@ -151,22 +154,36 @@
         <option value="$PROJECT_DIR$/src/com/xsis/Day02/latihanlogic4.java" />
         <option value="$PROJECT_DIR$/src/com/xsis/Day03/logic3no1.java" />
         <option value="$PROJECT_DIR$/src/com/xsis/Day03/Array4.java" />
-        <option value="$PROJECT_DIR$/src/com/xsis/Day03/logic3no2.java" />
         <option value="$PROJECT_DIR$/src/com/xsis/Day03/Array03.java" />
         <option value="$PROJECT_DIR$/src/com/xsis/Day02/logic1no1.java" />
         <option value="$PROJECT_DIR$/src/com/xsis/Day02/logic1no2.java" />
-        <option value="$PROJECT_DIR$/src/com/xsis/Day02/Latihanlogic.java" />
         <option value="$PROJECT_DIR$/src/com/xsis/Day02/logic1no3.java" />
         <option value="$PROJECT_DIR$/src/com/xsis/Day02/logic1no5.java" />
         <option value="$PROJECT_DIR$/src/com/xsis/Day02/logic1no6.java" />
         <option value="$PROJECT_DIR$/src/com/xsis/Day02/logic1no7.java" />
+        <option value="$PROJECT_DIR$/src/com/xsis/Day03/logic2no3.java" />
+        <option value="$PROJECT_DIR$/src/com/xsis/Day04/logic2no5.java" />
+        <option value="$PROJECT_DIR$/src/com/xsis/Day04/logic2no6.java" />
+        <option value="$PROJECT_DIR$/src/com/xsis/Day03/logic2no1.java" />
+        <option value="$PROJECT_DIR$/src/com/xsis/Day03/logic3no2.java" />
+        <option value="$PROJECT_DIR$/src/com/xsis/Day04/logic3no1.java" />
+        <option value="$PROJECT_DIR$/src/com/xsis/Day04/logic2no3.java" />
+        <option value="$PROJECT_DIR$/src/com/xsis/Day04/logic2no4.java" />
+        <option value="$PROJECT_DIR$/src/com/xsis/Day04/latihanmatrix.java" />
+        <option value="$PROJECT_DIR$/src/com/xsis/Day03/logic2no2.java" />
+        <option value="$PROJECT_DIR$/src/com/xsis/Day04/latihanmatrix2.java" />
+        <option value="$PROJECT_DIR$/src/com/xsis/Day04/latihanmatrix3.java" />
+        <option value="$PROJECT_DIR$/src/com/xsis/Day04/phytagoras.java" />
         <option value="$PROJECT_DIR$/src/com/xsis/Day02/logic1no8.java" />
+        <option value="$PROJECT_DIR$/src/com/xsis/Day02/Latihanlogic.java" />
+        <option value="$PROJECT_DIR$/src/com/xsis/Day04/latihan4.java" />
+        <option value="$PROJECT_DIR$/src/com/xsis/Day04/Fisika.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="732" />
-    <option name="width" value="1175" />
+    <option name="x" value="822" />
+    <option name="width" value="1084" />
     <option name="height" value="980" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -175,6 +192,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -182,11 +200,28 @@
               <item name="01" type="b2602c69:ProjectViewProjectNode" />
               <item name="01" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="xsis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="xsis" type="462c0819:PsiDirectoryNode" />
+              <item name="Day04" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -215,9 +250,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.logic1no7">
-    <configuration name="logic1no2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xsis.Day02.logic1no2" />
+  <component name="RunManager" selected="Application.Fisika">
+    <configuration name="Fisika" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xsis.Day04.Fisika" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xsis.Day04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Latihanlogic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xsis.Day02.Latihanlogic" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
@@ -229,38 +277,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="logic1no3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xsis.Day02.logic1no3" />
+    <configuration name="latihan4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xsis.Day04.latihan4" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xsis.Day02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="logic1no5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xsis.Day02.logic1no5" />
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.xsis.Day02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="logic1no6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xsis.Day02.logic1no6" />
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.xsis.Day02.*" />
+          <option name="PATTERN" value="com.xsis.Day04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -281,13 +303,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="logic3no1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xsis.Day04.logic3no1" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xsis.Day04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Fisika" />
+        <item itemvalue="Application.latihan4" />
+        <item itemvalue="Application.Latihanlogic" />
         <item itemvalue="Application.logic1no7" />
-        <item itemvalue="Application.logic1no6" />
-        <item itemvalue="Application.logic1no5" />
-        <item itemvalue="Application.logic1no3" />
-        <item itemvalue="Application.logic1no2" />
+        <item itemvalue="Application.logic3no1" />
       </list>
     </recent_temporary>
   </component>
@@ -302,17 +337,19 @@
       <option name="presentableId" value="Default" />
       <updated>1566960969935</updated>
       <workItem from="1566960971491" duration="10626000" />
-      <workItem from="1567133582429" duration="20552000" />
+      <workItem from="1567133582429" duration="20794000" />
+      <workItem from="1567389052354" duration="25989000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44424000" />
+    <option name="totallyTimeSpent" value="70655000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14228188" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1442953" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24966443" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -322,7 +359,7 @@
       <window_info id="Image Layers" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.26628897" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.24504249" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -340,7 +377,7 @@
       <window_info anchor="right" id="Maven" order="3" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Database" order="6" weight="0.3295302" />
+      <window_info anchor="right" id="Database" order="6" visible="true" weight="0.020134227" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
     </layout>
@@ -348,94 +385,19 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/xsis/Day04/Fisika.java</url>
+          <line>2</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/day02/latihanjava5.java" />
-    <entry file="file://$PROJECT_DIR$/src/day02/latihanjava6.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/xsis/day01/Speed.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="342" column="77" lean-forward="true" selection-start-line="342" selection-start-column="77" selection-end-line="342" selection-end-column="77" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day02/latihanlogic4.java" />
-    <entry file="file://$PROJECT_DIR$/src/Day03.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="18" selection-start-column="18" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day02/ar2dimensi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day02/array1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" lean-forward="true" selection-start-column="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day02/array2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="34" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day02/array3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day02/Latihanlogic.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="28" selection-end-line="78" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day02/latihanlogic2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="13" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day02/latihanlogic3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="30" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Day03/Array01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="22" lean-forward="true" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xsis/day01/Hello.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_212/src.zip!/java/util/Formatter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -443,110 +405,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xsis/Day02/Array02.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xsis/Day0301.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xsis/Day0301/array01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="28" lean-forward="true" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xsis/Day03/Array02.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xsis/day01/latihan2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xsis/day01/Latihan1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xsis/Day02/Array2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="37" lean-forward="true" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xsis/Day03/Array2.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xsis/Day02/ar2dimensi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xsis/Day02/latihanlogic4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xsis/Day02/latihanlogic3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xsis/Day02/latihanlogic2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="42" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xsis/Day02/array1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xsis/Day02/array3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xsis/Day03/kotak_bolong1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xsis/Day03/Array4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xsis/Day02/Array02.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/xsis/Day0301.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/xsis/Day0301/array01.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/xsis/Day03/Array02.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/xsis/day01/latihan2.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/xsis/Day02/Array2.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/xsis/Day03/Array2.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/xsis/Day02/latihanlogic4.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/xsis/Day03/kotak_bolong1.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/xsis/Day03/Array4.java" />
     <entry file="file://$PROJECT_DIR$/src/com/xsis/Day02/kotak_bolong.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -558,27 +426,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" column="23" lean-forward="true" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xsis/Day03/Array01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="25" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xsis/Day02/logic1no1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xsis/Day02/logic1no2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="23" lean-forward="true" selection-start-column="23" selection-end-line="11" />
         </state>
       </provider>
     </entry>
@@ -603,38 +450,39 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xsis/Day02/Latihanlogic.java">
+    <entry file="file://$PROJECT_DIR$/src/com/xsis/Day03/logic3no1.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/xsis/Day02/latihanlogic2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1088">
-          <caret line="64" column="30" selection-start-line="64" selection-start-column="30" selection-end-line="64" selection-end-column="30" />
+        <state relative-caret-position="68">
+          <caret line="4" column="42" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xsis/Day02/logic1no7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xsis/Day03/logic3no2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xsis/Day03/logic3no1.java">
+    <entry file="file://$PROJECT_DIR$/src/com/xsis/Day02/array3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xsis/Day03/latihan1.java">
+    <entry file="file://$PROJECT_DIR$/src/com/xsis/Day02/array1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xsis/Day02/logic1no1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
-          <caret line="9" column="24" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xsis/Day02/logic1no2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -645,10 +493,199 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xsis/day01/Speed3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xsis/day01/Speed2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xsis/day01/Speed.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xsis/day01/Latihan1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xsis/Day02/latihanlogic3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xsis/Day03/latihan1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xsis/Day02/ar2dimensi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xsis/Day03/Array01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="25" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xsis/Day03/logic2no3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="34" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xsis/Day03/logic3no2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xsis/Day04/logic2no5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="78" selection-start-line="8" selection-start-column="78" selection-end-line="8" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xsis/Day04/logic2no6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xsis/Day04/logic2no4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="23" lean-forward="true" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xsis/Day04/latihanmatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xsis/Day04/latihanmatrix3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xsis/Day03/logic2no2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="45" lean-forward="true" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xsis/Day03/logic2no1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="40" lean-forward="true" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xsis/Day04/latihanmatrix2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xsis/Day04/phytagoras.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xsis/Day04/logic2no3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="25" lean-forward="true" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xsis/Day02/logic1no9.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xsis/Day02/logic1no7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xsis/Day02/logic1no10.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="25" lean-forward="true" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/xsis/Day02/logic1no8.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xsis/Day04/logic3no1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xsis/Day02/Latihanlogic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="573">
+          <caret line="49" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xsis/Day04/latihan4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xsis/Day04/Fisika.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="39" column="49" lean-forward="true" selection-start-line="39" selection-start-column="49" selection-end-line="39" selection-end-column="49" />
         </state>
       </provider>
     </entry>

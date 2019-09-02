@@ -5,39 +5,37 @@ import java.util.Scanner;
 public class Latihanlogic {
     public static void main(String[] args) {
         Latihanlogic lg = new Latihanlogic();
-        // lg.testSoal1(14);
-        // lg.testSoal2(14);
-        //lg.testSoal3(7);
-        //lg.testSoal5(7);
-        lg.testSoal6(10);
-        //lg.testSoal7(7);
+        // lg.soal1(14);
+        // lg.Soal2(14);
+        //lg.Soal3(7);
+        //lg.Soal5(7);
+        lg.Soal6(10);
+        //lg.Soal7(7);
     }
-
-    public void testSoal1(int n){
-        for (int i = 0; i <= n ; i++) {
+    public void Soal1(int n){
+        for (int i = 0; i <= n; i++) {
             if (i % 2 != 0){
                 System.out.print(i+" ");
             }
         }
     }
-
-    public void testSoal2(int n){
-        for (int i = 0; i <= n ; i++) {
+    public void Soal2(int n){
+        for (int i = 0; i <= n; i++) {
             if (i % 2 == 0){
                 System.out.print(i+" ");
             }
         }
     }
 
-    public void testSoal3(int n){
+    public void Soal3(int n){
         int deret = 1;
-        for (int i = 0; i <= n ; i++) {
+        for (int i = 0; i <= n; i++) {
             System.out.print(deret+" ");
             deret = deret +3;
         }
     }
 
-    public void testSoal5(int n){
+    public void Soal5(int n){
         int deret = 1;
         int interval = 2;
         for (int i = 0; i <= n ; i++) {
@@ -50,7 +48,7 @@ public class Latihanlogic {
         }
     }
 
-    public void testSoal6(int n){
+    public void Soal6(int n){
         int min =4;
         int max =8;
         int interval=2;
@@ -67,13 +65,11 @@ public class Latihanlogic {
         }
     }
 
-    public void testSoal7(int n){
+    public void Soal7(int n){
         int j = 2;
         for (int i = 0; i <= n ; i++) {
             System.out.print(j+ " ");
             j = j * 2;
         }
     }
-
-
 }
