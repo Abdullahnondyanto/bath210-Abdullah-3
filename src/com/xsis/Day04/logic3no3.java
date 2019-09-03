@@ -1,5 +1,5 @@
 package com.xsis.Day04;
 
-public class phytagoras {
+public class logic3no3 {
 
 }

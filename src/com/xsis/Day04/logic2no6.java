@@ -2,7 +2,6 @@ package com.xsis.Day04;
 
  import java.util.Scanner;
     public class logic2no6 {
-
         public static void main(String[] args)
         {
             Scanner in = new Scanner(System.in);
@@ -26,6 +25,6 @@ package com.xsis.Day04;
                 }
                 count = count + 1;
             }
-            return count; // returns 0 if string starts or ends with space " ".
+            return count;
         }
     }

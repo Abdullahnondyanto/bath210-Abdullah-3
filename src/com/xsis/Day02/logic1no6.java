@@ -6,11 +6,11 @@ public class logic1no6 {
     int max =8;
     int interval=2;
     int deret = 1;
-        for (int i = 0; i <= 10 ; i++) {
+        for (int i = 0; i <= 4 ; i++) {
         System.out.print(deret+" ");
         interval +=1;
         if (interval % 2==0){
-            System.out.print("*");
+            System.out.print("* ");
             deret = deret+ max;
         }else{
             deret = deret+ min;
