@@ -17,7 +17,7 @@ package com.xsis.Day04;
                     if (i==j){
                         if (intervalAwal <= intervalAkhir) {
                             System.out.print(n1);
-                            System.out.print(" ");
+                            System.out.print("  ");
 
                             n1 -= 3;
                             intervalAwal ++;
