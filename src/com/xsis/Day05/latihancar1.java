@@ -22,6 +22,7 @@ public class latihancar1 {
         engineTemperature= 80;
     }
 
+
     void goChangegear (int gear) {
         System.out.println("... Change gear ...");
         this.speed = speed;
