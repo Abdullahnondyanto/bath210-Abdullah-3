@@ -7,7 +7,6 @@ public class Bike{
     private int cadence;
     private int speed;
     private int id;
-
     private static int numberOfBikes = 0;
 
     public Bike(String theDriver, int startGear,int startCadence, int startSpeed){
@@ -36,8 +35,6 @@ public class Bike{
     public int getID() {return id;}
 
     public static int getNumberOfBikes() {return numberOfBikes;}
-
-    // method to print out contents of object
     public String toString ()
     {
         StringBuffer sb = new StringBuffer();

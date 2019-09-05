@@ -2,13 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8b38679-23e7-4a2d-b2c7-b9b0b30be3de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/Day06/Bike.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/Day06/testBike.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/Day07/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xsis/Day07/EmployeeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/Day07/abstrak/employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/Day07/abstrak/employeeAbstrakDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/Day07/abstrak/staff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/Day07/employee2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/Day07/employee2Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/Day07/employee2Interface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/Day07/manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xsis/Day07/programmer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/com/xsis/Day05/latihancar1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/com/xsis/Day05/latihancar1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/xsis/Day05/latihancar1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xsis/Day05/latihancar1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/com/xsis/Day06/Bike.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/com/xsis/Day06/Bike.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xsis/Day06/Bike.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xsis/Day06/Bike.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xsis/Day07/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xsis/Day07/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xsis/Day07/EmployeeDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xsis/Day07/EmployeeDemo.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,31 +43,57 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/xsis/Day05/latihancar2.java">
+        <entry file="file://$PROJECT_DIR$/src/com/xsis/Day07/employee2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/xsis/Day06/testBike.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="590">
-              <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+            <state relative-caret-position="-540">
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#436#437#0" expanded="true" />
+                <element signature="e#463#464#0" expanded="true" />
+                <element signature="e#503#504#0" expanded="true" />
+                <element signature="e#535#536#0" expanded="true" />
+                <element signature="e#565#566#0" expanded="true" />
+                <element signature="e#591#592#0" expanded="true" />
+                <element signature="e#629#630#0" expanded="true" />
+                <element signature="e#659#660#0" expanded="true" />
+                <element signature="e#698#699#0" expanded="true" />
+                <element signature="e#733#734#0" expanded="true" />
+                <element signature="e#789#790#0" expanded="true" />
+                <element signature="e#837#838#0" expanded="true" />
+                <element signature="e#872#873#0" expanded="true" />
+                <element signature="e#906#907#0" expanded="true" />
+                <element signature="e#957#958#0" expanded="true" />
+                <element signature="e#1003#1004#0" expanded="true" />
+                <element signature="e#1036#1037#0" expanded="true" />
+                <element signature="e#1065#1066#0" expanded="true" />
+                <element signature="e#1109#1110#0" expanded="true" />
+                <element signature="e#1145#1146#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/xsis/Day07/EmployeeDemo.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/xsis/Day07/employee2Demo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="590">
-              <caret line="36" column="44" selection-start-line="36" selection-start-column="44" selection-end-line="36" selection-end-column="44" />
+            <state relative-caret-position="357">
+              <caret line="21" column="96" selection-start-line="21" selection-start-column="96" selection-end-line="21" selection-end-column="96" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/xsis/Day07/programmer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="60" lean-forward="true" selection-start-line="7" selection-start-column="60" selection-end-line="7" selection-end-column="60" />
+              <folding>
+                <element signature="e#704#705#0" expanded="true" />
+                <element signature="e#765#766#0" expanded="true" />
+                <element signature="e#801#802#0" expanded="true" />
+                <element signature="e#833#834#0" expanded="true" />
+                <element signature="e#880#881#0" expanded="true" />
+                <element signature="e#922#923#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -69,17 +101,69 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/xsis/Day07/Employee.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="17">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+              <folding>
+                <element signature="e#540#541#0" expanded="true" />
+                <element signature="e#572#573#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/xsis/Day06/Bike.java">
+        <entry file="file://$PROJECT_DIR$/src/com/xsis/Day07/abstrak/employee.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="170">
+              <caret line="10" column="99" selection-start-line="10" selection-start-column="99" selection-end-line="10" selection-end-column="99" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/xsis/Day07/abstrak/staff.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="33" lean-forward="true" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+              <folding>
+                <element signature="e#283#284#0" expanded="true" />
+                <element signature="e#310#311#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/xsis/Day07/abstrak/employeeAbstrakDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/xsis/Day07/manager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+              <folding>
+                <element signature="e#589#590#0" expanded="true" />
+                <element signature="e#633#634#0" expanded="true" />
+                <element signature="e#686#687#0" expanded="true" />
+                <element signature="e#719#720#0" expanded="true" />
+                <element signature="e#756#757#0" expanded="true" />
+                <element signature="e#799#800#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/xsis/Day07/employee2Interface.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -89,6 +173,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -99,14 +184,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/xsis/Day02/ArraySoal.java" />
-        <option value="$PROJECT_DIR$/src/com/xsis/Day03/Array01.java" />
-        <option value="$PROJECT_DIR$/src/com/xsis/Day02/latihanlogic4.java" />
-        <option value="$PROJECT_DIR$/src/com/xsis/Day03/logic3no1.java" />
-        <option value="$PROJECT_DIR$/src/com/xsis/Day03/Array4.java" />
-        <option value="$PROJECT_DIR$/src/com/xsis/Day03/Array03.java" />
-        <option value="$PROJECT_DIR$/src/com/xsis/Day02/logic1no1.java" />
-        <option value="$PROJECT_DIR$/src/com/xsis/Day02/logic1no2.java" />
         <option value="$PROJECT_DIR$/src/com/xsis/Day02/logic1no5.java" />
         <option value="$PROJECT_DIR$/src/com/xsis/Day02/logic1no7.java" />
         <option value="$PROJECT_DIR$/src/com/xsis/Day03/logic2no3.java" />
@@ -146,10 +223,18 @@
         <option value="$PROJECT_DIR$/src/com/xsis/Day06/car2.java" />
         <option value="$PROJECT_DIR$/src/com/xsis/Day07/Latihan1.java" />
         <option value="$PROJECT_DIR$/src/com/xsis/Day07/latihan2.java" />
-        <option value="$PROJECT_DIR$/src/com/xsis/Day07/Employee.java" />
-        <option value="$PROJECT_DIR$/src/com/xsis/Day06/Bike.java" />
         <option value="$PROJECT_DIR$/src/com/xsis/Day06/testBike.java" />
+        <option value="$PROJECT_DIR$/src/com/xsis/Day06/Bike.java" />
+        <option value="$PROJECT_DIR$/src/com/xsis/Day07/employee2.java" />
+        <option value="$PROJECT_DIR$/src/com/xsis/Day07/manager.java" />
+        <option value="$PROJECT_DIR$/src/com/xsis/Day07/employee2Interface.java" />
+        <option value="$PROJECT_DIR$/src/com/xsis/Day07/programmer.java" />
+        <option value="$PROJECT_DIR$/src/com/xsis/Day07/Employee.java" />
         <option value="$PROJECT_DIR$/src/com/xsis/Day07/EmployeeDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/xsis/Day07/employee2Demo.java" />
+        <option value="$PROJECT_DIR$/src/com/xsis/Day07/abstrak/employee.java" />
+        <option value="$PROJECT_DIR$/src/com/xsis/Day07/abstrak/staff.java" />
+        <option value="$PROJECT_DIR$/src/com/xsis/Day07/abstrak/employeeAbstrakDemo.java" />
       </list>
     </option>
   </component>
@@ -189,6 +274,14 @@
               <item name="xsis" type="462c0819:PsiDirectoryNode" />
               <item name="Day07" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="xsis" type="462c0819:PsiDirectoryNode" />
+              <item name="Day07" type="462c0819:PsiDirectoryNode" />
+              <item name="abstrak" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -223,7 +316,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestBike">
+  <component name="RunManager" selected="Application.employee2Demo">
     <configuration name="EmployeeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.xsis.Day07.EmployeeDemo" />
       <module name="Java" />
@@ -250,12 +343,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="counter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xsis.Day05.counter" />
+    <configuration name="employee2Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xsis.Day07.employee2Demo" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xsis.Day05.*" />
+          <option name="PATTERN" value="com.xsis.Day07.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -291,11 +384,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestBike" />
+        <item itemvalue="Application.employee2Demo" />
         <item itemvalue="Application.EmployeeDemo" />
+        <item itemvalue="Application.TestBike" />
         <item itemvalue="Application.latihancar2" />
         <item itemvalue="Application.employeeClient" />
-        <item itemvalue="Application.counter" />
       </list>
     </recent_temporary>
   </component>
@@ -315,12 +408,12 @@
       <workItem from="1567475170690" duration="15944000" />
       <workItem from="1567502507383" duration="2122000" />
       <workItem from="1567561476853" duration="17552000" />
-      <workItem from="1567648636923" duration="6221000" />
+      <workItem from="1567648636923" duration="25872000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="112777000" />
+    <option name="totallyTimeSpent" value="132428000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -359,7 +452,7 @@
       <window_info anchor="right" id="Theme Preview" order="8" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13892618" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1409396" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24966443" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -374,7 +467,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.780924" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.78045326" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Java Enterprise" order="9" weight="0.3286119" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
@@ -414,50 +507,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/xsis/day01/Speed.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xsis/day01/Latihan1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xsis/Day02/latihanlogic3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xsis/Day03/latihan1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xsis/Day02/ar2dimensi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xsis/Day03/Array01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="25" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xsis/Day03/logic2no3.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/xsis/Day03/logic3no2.java" />
     <entry file="file://$PROJECT_DIR$/src/com/xsis/Day04/logic2no4.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
@@ -658,27 +707,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xsis/Day05/employee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
-          <folding>
-            <element signature="e#103#104#0" expanded="true" />
-            <element signature="e#130#131#0" expanded="true" />
-            <element signature="e#293#294#0" expanded="true" />
-            <element signature="e#319#320#0" expanded="true" />
-            <element signature="e#358#359#0" expanded="true" />
-            <element signature="e#393#394#0" expanded="true" />
-            <element signature="e#449#450#0" expanded="true" />
-            <element signature="e#497#498#0" expanded="true" />
-            <element signature="e#532#533#0" expanded="true" />
-            <element signature="e#566#567#0" expanded="true" />
-            <element signature="e#617#618#0" expanded="true" />
-            <element signature="e#663#664#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/xsis/Day07/latihan2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -702,8 +730,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/xsis/Day05/latihancar1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="49" lean-forward="true" selection-start-line="13" selection-start-column="49" selection-end-line="13" selection-end-column="49" />
+        <state relative-caret-position="119">
+          <caret line="7" column="13" selection-start-line="3" selection-start-column="4" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -714,34 +742,156 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xsis/Day06/Bike.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/xsis/Day06/testBike.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="590">
-          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+        <state relative-caret-position="97">
+          <caret line="8" column="32" lean-forward="true" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xsis/Day07/Employee.java">
+    <entry file="file://$PROJECT_DIR$/src/com/xsis/Day06/Bike.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="37" column="29" lean-forward="true" selection-start-line="37" selection-start-column="29" selection-end-line="37" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xsis/Day05/employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="27" lean-forward="true" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
+          <folding>
+            <element signature="e#103#104#0" expanded="true" />
+            <element signature="e#130#131#0" expanded="true" />
+            <element signature="e#293#294#0" expanded="true" />
+            <element signature="e#319#320#0" expanded="true" />
+            <element signature="e#358#359#0" expanded="true" />
+            <element signature="e#393#394#0" expanded="true" />
+            <element signature="e#449#450#0" expanded="true" />
+            <element signature="e#497#498#0" expanded="true" />
+            <element signature="e#532#533#0" expanded="true" />
+            <element signature="e#566#567#0" expanded="true" />
+            <element signature="e#617#618#0" expanded="true" />
+            <element signature="e#663#664#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xsis/Day07/manager.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="e#589#590#0" expanded="true" />
+            <element signature="e#633#634#0" expanded="true" />
+            <element signature="e#686#687#0" expanded="true" />
+            <element signature="e#719#720#0" expanded="true" />
+            <element signature="e#756#757#0" expanded="true" />
+            <element signature="e#799#800#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xsis/Day07/employee2Interface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/xsis/Day07/EmployeeDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="590">
-          <caret line="36" column="44" selection-start-line="36" selection-start-column="44" selection-end-line="36" selection-end-column="44" />
+        <state relative-caret-position="204">
+          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xsis/Day07/employee2Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="96" selection-start-line="21" selection-start-column="96" selection-end-line="21" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xsis/Day07/employee2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-540">
+          <folding>
+            <element signature="e#436#437#0" expanded="true" />
+            <element signature="e#463#464#0" expanded="true" />
+            <element signature="e#503#504#0" expanded="true" />
+            <element signature="e#535#536#0" expanded="true" />
+            <element signature="e#565#566#0" expanded="true" />
+            <element signature="e#591#592#0" expanded="true" />
+            <element signature="e#629#630#0" expanded="true" />
+            <element signature="e#659#660#0" expanded="true" />
+            <element signature="e#698#699#0" expanded="true" />
+            <element signature="e#733#734#0" expanded="true" />
+            <element signature="e#789#790#0" expanded="true" />
+            <element signature="e#837#838#0" expanded="true" />
+            <element signature="e#872#873#0" expanded="true" />
+            <element signature="e#906#907#0" expanded="true" />
+            <element signature="e#957#958#0" expanded="true" />
+            <element signature="e#1003#1004#0" expanded="true" />
+            <element signature="e#1036#1037#0" expanded="true" />
+            <element signature="e#1065#1066#0" expanded="true" />
+            <element signature="e#1109#1110#0" expanded="true" />
+            <element signature="e#1145#1146#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xsis/Day07/programmer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="60" lean-forward="true" selection-start-line="7" selection-start-column="60" selection-end-line="7" selection-end-column="60" />
+          <folding>
+            <element signature="e#704#705#0" expanded="true" />
+            <element signature="e#765#766#0" expanded="true" />
+            <element signature="e#801#802#0" expanded="true" />
+            <element signature="e#833#834#0" expanded="true" />
+            <element signature="e#880#881#0" expanded="true" />
+            <element signature="e#922#923#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xsis/Day07/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="e#540#541#0" expanded="true" />
+            <element signature="e#572#573#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xsis/Day07/abstrak/employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="99" selection-start-line="10" selection-start-column="99" selection-end-line="10" selection-end-column="99" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xsis/Day07/abstrak/staff.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="33" lean-forward="true" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+          <folding>
+            <element signature="e#283#284#0" expanded="true" />
+            <element signature="e#310#311#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/xsis/Day07/abstrak/employeeAbstrakDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
         </state>
       </provider>
     </entry>
