@@ -1,0 +1,57 @@
+Jawaban Java Quiz Teory
+1.	Kode pada bahasa pemrograman Java dituliskan dalam file teks dan disimpan dengan nama file yang sama persis dengan nama classnya serta diberikan ekstensi java (*.java). File tersebut kemudian di kompile dengan compiler java (javac) sehingga akan menghasilkan 1 file dengan ekstensi class (*.class). File berekstensi class (*.class) yang akan dijalankan diatas Java Virtual Machine (JVM) dengan menggunakan java launcer tool (java). Gambarannya seperti myProgram.java => Compiler=> myProgram.class=>Intepreter=>0011010101=>My Program.
+2.	objek adalah sebuah komponen software yang stukturnya mirip dengan objek pada dunia nyata. Setiap objek dibuat dari satu set data (sifat) dimana variable menjabarkan esensial karakter dari objek, dan juga terdiri dari satu set dari methode (tingkah laku) yang menjabarkan bagaimana tingkah laku dari objek sedangkan class adalah sturktur dasa dari OOP. Terdiri dari dua tipe dari anggota dimana disebut dengan field (attribut/properti) dan method. Field memspesifikasi tipe data yang didefinisikan oleh class, sementara methode spesifikasi dari operasi. Sebuah objek adalah sebuah instance pada class.
+3.	a.  Connection
+b.  Statement
+c.  ResultSet
+d. SQLException
+4.	Paket/package berfungsi memberi proteksi pada kelas dan interface yang ada di dalamnya. Sebagai contoh, kelas yang dideklarasikan dengan kata kunci private, hanya dapat diakses oleh kelas-kelas lain yang berada dalam paket yang sama.
+5.	Variabel local dideklarasikan didalam method, konstruktor atau blok, dan Variabel lokal dibuat saat method, kontruktor atau blok mulai dijalankan dan akan dihapus saat selesai dijakankan.
+Variabel instance dapat dideklarasikan dalam kelas sebelum atau sesudah penggunaan. Modifier akses dapat digunakan oleh semua method, konstruktor, dan blok di dalam kelas.
+Variabel static biasanya dideklarasikan sebagai konstanta, Variabel konstanta nilainya tetap dan tidak berubah. Dibuat ketika program dimulai dan dihapus saat program berhenti. Memiliki nilai default yang sama dengan variabel instance.
+Method instance fungsi yg beroperasi pada objek untuk memanipulasi state objek lewat pesan yg diterima dari objek lain. Untuk memanggil method ini harus membuat objek dengan instance class.
+Method static method yang dapat dipakai tanpa harus menginisialisasi suatu class (maksudnya tanpa menggunakan variabel terlebih dahulu). Ciri method ini adalah dengan menggunakan kata static di depan kata void. Method ini dapat dipanggil dengan membuat objek tanpa instance class.
+6.	belum
+7.	Inheritance merupakan suatu proses dimana suatu class diturunkan dari class lainnya sehingga ia mendapatkkan ciri atau sifat dari class tersebut.Dari hirarki di atas dapat dilihat bahwa, semakin ke bawah, class akan semakin bersifat spesifik.
+Kegunaannya adalah : dapat membuat superkelas yang hanya mendefinisikan behaviour namun tidak memberi implementasi dari metode-metode yang ada. Hal ini berguna jika kita ingin membuat semacam template kelas. Kelas semacam ini disebut kelas abstrak, karena behaviournya masih abstrak dan belum diimplementasikan. Subkelas-subkelas dari kelas semacam ini, yang disebut kelas konkret, mengimplementasikan behaviour abstrak tersebut sesuai dengan kebutuhan masing-masing.
+8.	Parent class : pekerja
+    Subclass : manager, progammer
+    public class EmployeeLagi {
+        private String name;
+        private String ssn;
+        private String emailAddress;
+        private int yearOfbirth;
+        private double salary;
+
+        public EmployeeLagi(String name, String ssn, String emailAddress, int yearOfbirth, double salary) {
+            if (salary < 1.0) throw new IllegalArgumentException("Salary should be more than 1");
+            this.name = name;
+            this.ssn = ssn;
+            this.emailAddress = emailAddress;
+            this.yearOfbirth = yearOfbirth;
+            this.salary = salary;
+        }
+
+
+    subclass manager
+    @Override
+    public double getSalary() {
+        double totalCommision = this.commision * super.getSalary();
+        return super.getSalary() + totalCommision;
+    }
+
+    subclass programmer
+    @Override
+    public double getSalary() {
+        double bonus = super.getSalary();
+        if (this.masakerja > 10){
+            bonus = 5 * super.getSalary();
+        }
+        else if (this.masakerja < 10) {
+            bonus = 2* super.getSalary();
+        }
+        return bonus;
+    }
+
+9.	Abstract class dapat memiliki tipe data dengan semua tipe data, sedangkan interface tipe datanya hanya berupa konstanta Method pada abstract class dapat berupa method kongkrit dan method abstract. Sedangkan pada interface semua method harus berupa method abstract.
+10.
