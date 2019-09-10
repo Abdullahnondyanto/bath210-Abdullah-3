@@ -1,7 +1,8 @@
 package com.xsis.JavaQuiz;
 
 import java.util.Scanner;
-    public class JavaLogic4 {
+    public class
+    JavaLogic4 {
         public static void main(String[] args) {
             Scanner scan = new Scanner(System.in);
             float[] angka=new float[6];
